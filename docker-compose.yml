@@ -1,0 +1,6 @@
+version: "3"
+services:
+  visit-norway:
+    image: jennyto/visit-norway:v1
+    ports:
+     - "3000"
